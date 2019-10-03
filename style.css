@@ -5,11 +5,17 @@ header {
     border-width: 5px;
     border-color:#cd212a;
     border-style: dotted;
+    padding: 1.3rem;
 }
 h1 {
     text-align: center;
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
+    font-size: 2rem;
+    padding-top: 
+}
+h2 {
+    font-size: 1.5rem;
 }
 nav {
     background-color: #008c45;
@@ -46,7 +52,4 @@ footer {
 #copyright-info {
     color: #f4f5f0;
     text-align: center;
-}
-body {
-    margin: 0;
 }
